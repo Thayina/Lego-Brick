@@ -70,5 +70,5 @@ This project gave me experience with several CAD commands and showed me how math
 
 ## Final Result
 
-![Final Bricks](Images/Final_Bricks.png)
+![Final Bricks](Images/Final%20Bricks.png)
 
